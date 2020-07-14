@@ -1,0 +1,13 @@
+{
+    "name": "atha/point-of-sale",
+    "description": "Just a simple pos app",
+    "keywords": ["php", "point-of-sale"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
