@@ -27,6 +27,7 @@
     "codeitnowin/barcode": "^3.0",
     "endroid/qr-code": "^3.8",
     "dompdf/dompdf": "^0.8.5",
-    "phpoffice/phpexcel": "^1.8"
+    "phpoffice/phpexcel": "^1.8",
+    "pusher/pusher-php-server": "^4.1"
   }
 }
