@@ -26,7 +26,7 @@
     "picqer/php-barcode-generator": "^2.0",
     "codeitnowin/barcode": "^3.0",
     "endroid/qr-code": "^3.8",
-    "dompdf/dompdf": "^0.8.5",
+    "dompdf/dompdf": "^1.2.1",
     "phpoffice/phpexcel": "^1.8",
     "pusher/pusher-php-server": "^4.1"
   }
